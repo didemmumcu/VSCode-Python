@@ -39,7 +39,7 @@ toplam = s+x
 # endregion
 
 # region ornek_4
-""""""
+"""
 sayi = 562
 kalan = sayi % 10
 birler = kalan // 1
@@ -53,3 +53,5 @@ print(yüzler)
 toplamDegeri = birler + onlar + yüzler
 # print(yüzler, onlar, birler)
 print(sayi, "sayısının basamakları toplamı:", toplamDegeri, "tür.")
+"""
+#endregion
