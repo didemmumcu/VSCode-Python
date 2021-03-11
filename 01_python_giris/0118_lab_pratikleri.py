@@ -40,16 +40,16 @@ toplam = s+x
 
 # region ornek_4
 """"""
-sayı = 562
-kalan = sayı % 10
+sayi = 562
+kalan = sayi % 10
 birler = kalan // 1
 print(birler)
-kalan=sayı%100
-onlar=kalan // 10
+kalan = sayi % 100
+onlar = kalan // 10
 print(onlar)
-kalan=sayı%1000
-yüzler=kalan // 100
+kalan = sayi % 1000
+yüzler = kalan // 100
 print(yüzler)
-toplamDegeri=birler + onlar + yüzler
+toplamDegeri = birler + onlar + yüzler
 # print(yüzler, onlar, birler)
-print(toplamDegeri) 
+print(sayi, "sayısının basamakları toplamı:", toplamDegeri, "tür.")
