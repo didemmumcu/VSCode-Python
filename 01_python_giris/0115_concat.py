@@ -6,7 +6,7 @@ ad = "didem"
 soyad = "mumcu"
 sinavNotu = 99
 print(okulNumarası, ad, soyad, sinavNotu)
-print("okulNumarası", okulNumarası,"olan",ad, soyad,"isimli öğrencinin sınav notu", sinavNotu)
+print("Okul Numarası ", okulNumarası,"olan",ad, soyad,"isimli öğrencinin sınav notu", sinavNotu, "'dur.")
 """
 #endregion
 
@@ -22,11 +22,11 @@ print("windows versiyonu", os, programlamaDili, "versiyonu", ver )
 
 #region concat_ornek_2
 #istanbul ile danimarka arası 2800 km.
-"""
-şehir = "istanbul"
-ülke = "danimarka" 
-km = "2800"
-print(şehir, "ile",ülke, "arası",km,"km.")
-"""
+""""""
+şehir = "adana"
+ülke = "antep" 
+km = "250"
+print(şehir, "ile",ülke , "arası",km ,"km'dir.")
+
 #endregion 
 

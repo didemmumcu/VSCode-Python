@@ -19,7 +19,7 @@ print("Hayatta", "en", "hakiki", "mürşit", "ilimdir", sep="-") #argümanların
 """
 istanbul-teknopark
 ecodation>>eğitim>>kurumları
-"""
+
 print("istanbul", "teknopark", sep="-")
 print("ecodation", "eğitim", "kurumları", sep=">>", end=".")
 
