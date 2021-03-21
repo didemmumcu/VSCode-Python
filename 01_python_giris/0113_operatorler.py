@@ -65,7 +65,7 @@ print(7%4)
 """
 1  +,-  unary
 2  **   üst alma
-3  *, /, %  çarpma bölme mod alma
+3  *, /, % mod alma, çarpma bölme 
 4  +, -      toplama çıkarma
 """
 print(3+4*5)

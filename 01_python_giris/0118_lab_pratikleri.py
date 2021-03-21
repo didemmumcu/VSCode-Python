@@ -6,7 +6,7 @@ a = 1
 b = 4
 c = 2
 delta = b**2 - 4*a*c
-print("delta değeri", delta)
+print("delta değeri", delta, "dir.")
 # endregion
 
 # region ornek_2
@@ -39,7 +39,7 @@ toplam = s+x
 # endregion
 
 # region ornek_4
-"""
+""""""
 sayi = 562
 kalan = sayi % 10
 birler = kalan // 1
@@ -53,5 +53,5 @@ print(yüzler)
 toplamDegeri = birler + onlar + yüzler
 # print(yüzler, onlar, birler)
 print(sayi, "sayısının basamakları toplamı:", toplamDegeri, "tür.")
-"""
-#endregion
+
+# endregion
