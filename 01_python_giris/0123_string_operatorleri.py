@@ -21,3 +21,5 @@ print(50*"didem")
 okulTuru = "Anadolu"
 seviye = 12
 print(okulTuru + " " + str(seviye))
+#endregion
+
