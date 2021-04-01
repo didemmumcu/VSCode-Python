@@ -36,7 +36,7 @@ if a<0:
 """
 s=int(input("lütfen sayı giriniz \t : "))
 if s == 0:
-    print("lütfen 0 değeri girmeyin")
+    print(f"lütfen {s} değerini girmeyin")
 """
 #endregion
 

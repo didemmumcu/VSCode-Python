@@ -75,14 +75,14 @@ print(Ali) #hata verir değişken tanımlanmamış diye
 
 #6- değişken adı yerine anahtar kelimeler if, pass, while, def, for bunlar kullanılamaz
 """
-def = "definition"
+def = "definition" #yanlış
 """
 
 #7- türkçe karakter kullanmamaya özen gösterelim
 """
 öğrenci = "ali"
 ogrenci = "ezgi"
-print(ogrenci)
+print(ogrenci) öğrenci ogrenci
 """
 #endregion
 

@@ -2,7 +2,8 @@
 """
 + = concatenation   
 * = replication
-
+"""
+"""
 a= "A"
 b= "B"
 c= "C"
@@ -17,9 +18,10 @@ print(50*"didem")
 #endregion
 
 #region ornek
-
+"""
 okulTuru = "Anadolu"
 seviye = 12
 print(okulTuru + " " + str(seviye))
+"""
 #endregion
 

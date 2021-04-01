@@ -4,3 +4,4 @@
 kAdi = input('Kullanici adi giriniz:')
 if kAdi!="admin": 
     pass  #yer tutucudur (if bloğu boş geçilemez kurali için)
+#endregion

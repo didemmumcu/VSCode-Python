@@ -23,7 +23,6 @@ print(f'ekstra bagaj ücreti: {ekUcret}')
 """
 #endregion
 
-
 #region ornek_3
 """
 klavyeden sayı girilsin mutlak değeri alınsın
@@ -55,7 +54,7 @@ print(f"güncel bakiyeniz {bakiye - transfer - kesinti} TL.")
 #region ornek_5
 """
 klavyeden 3 sayı girildiğinde en büyük olanını çıkaracak
-"""
+"""                                                       #bu yanlış çıkıyor hocaya sorrr!!!!!!!!!!!!!
 """
 eb = 0
 a = int(input("lütfen sayı giriniz: "))
@@ -83,7 +82,6 @@ if s1>s2:
 if s2>s1:
     print(f"en büyük sayı {s2} dir")
 """
-
 #endregion
 
 #region ornek_7
@@ -103,3 +101,38 @@ if ort<50:
 #endregion
 
 
+#region ornek_8_aklıma_geleni_yazıyorummm:)
+"""
+ucret = 4.5
+kilometre = int(input("lütfen kaç km gittiğinizi giriniz: "))
+if kilometre <= 15 : 
+    ucret += kilometre*0.70
+elif kilometre <= 30 : 
+    ucret += kilometre*0.60
+elif kilometre <= 45 :
+    ucret += kilometre*0.50
+else :
+    ucret += kilometre*0.40
+print(f"ücretiniz {ucret}TL'dir.")
+"""
+#endregion
+
+#region ornek_9_oylesine_deneme
+"""
+a = int(input("lütfen bir sayı girin: "))
+b = int(input("lütfen bir sayı girin: "))
+c = int(input("lütfen bir sayı girin: "))
+if a>b>c:
+    print(f"en büyük{a}dır. ")
+if a>c>b:
+        print(f"en bğyük sayı {a}dır")
+if b>c>a:
+    print(f"en büyük{b}dır. ")
+if b>a>c:
+        print(f"en bğyük sayı {b}dır")
+if c>a>b:
+    print(f"en büyük{c}dır. ")
+if c>b>a:
+        print(f"en bğyük sayı {c}dır")
+"""
+#endregion

@@ -1,8 +1,8 @@
 # region atama_operatoru
-""""""
+"""
 name = "John"
 print(name)
-
+"""
 # endregion
 
 # region round

@@ -22,11 +22,11 @@ print("windows versiyonu", os, programlamaDili, "versiyonu", ver )
 
 #region concat_ornek_2
 #istanbul ile danimarka arası 2800 km.
-""""""
-şehir = "adana"
-ülke = "antep" 
+"""
+sehir_1 = "adana"
+sehir_2 = "antep" 
 km = "250"
-print(şehir, "ile",ülke , "arası",km ,"km'dir.")
-
+print(sehir_1, "ile",sehir_2 , "arası",km ,"km'dir.")
+"""
 #endregion 
 

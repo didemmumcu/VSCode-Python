@@ -31,6 +31,6 @@ h = int(input("yüksekliği giriniz: "))
 a = int(input("a taban kenarını giriniz: "))
 b = int(input("b taban kenarını giriniz: "))
 hacim = 1/3*h*a*b
-print("piramitin hacmi", hacim, "metre küptür.")
+print("piramitin hacmi", hacim , "metre küptür.")
 """
 #endregion

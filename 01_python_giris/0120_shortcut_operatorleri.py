@@ -16,8 +16,8 @@ print(sayi)
 skor = 0
 can = 3
 # engeli geçtiğinde skor 1 artar
-skor += 1
-# engele çarptığında skor 1 azalır
+skor += 1 #skor = skor + 1
+# engele çarptığında can 1 azalır
 can -= 1
 
 print("anlık skorunuz", skor)

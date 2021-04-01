@@ -86,6 +86,8 @@ print(ogrenciYas >= 18)
 kullanıcı adını giriniz : admin     →true
 kullanıcı adını giriniz : user      →false
 """
+"""
 uName = input("lütfen kullanıcı adını giriniz : ")
 print(uName=="admin")
+"""
 #endregion

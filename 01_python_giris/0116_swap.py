@@ -2,8 +2,8 @@
 #değişken yer değiştirme
 #a değeri 25, b değeri 15
 """
-a = 15
-b = 25
+a = 16
+b = 36
 temp = a
 a = b
 b = temp
